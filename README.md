@@ -4,7 +4,7 @@
 1. 进入Terminal终端，输入以下命令安装库函数，使用密码授予安装权限
 ```
 sudo apt-get install libevent-dev libboost-system-dev libboost-filesystem-dev libboost-test-dev libboost-program-options-dev libboost-thread-dev libfmt-dev libdb-dev libdb++-dev openssl -y
-
+sudo apt install libnorm1,libpgm-dev,libzmg5 -y
 sudo apt install screen -y
 ```
 2. 建立项目文件夹，下载必要程序
